@@ -3,7 +3,7 @@ package com.markone.game;
 import com.badlogic.gdx.Game;
 import com.markone.game.screens.GameRound;
 
-public class MarkOneGame extends Game {
+public class ChromoClickerGame extends Game {
 
 	
 	@Override
